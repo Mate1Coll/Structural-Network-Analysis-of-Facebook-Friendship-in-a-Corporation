@@ -1,0 +1,2 @@
+# Structural Network Analysis of Facebook Friendship in a Corporation
+ In this work, we analyze the network structure of Facebook friendships among individuals who have indicated employment at a large information technology corporation, using social network data. This analysis provides insights into the network's structure, including departmental organization, the importance of specific positions, communication patterns within the organization, and the diffusion of information among its members.
